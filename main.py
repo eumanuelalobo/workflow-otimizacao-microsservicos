@@ -1,6 +1,5 @@
-# main.py - Microsserviço de Catálogo de Produtos
 import sys
-sys.path.insert(0, '.')
+sys.path.insert(0,'.')
 
 import fastapi
 from pydantic import BaseModel
