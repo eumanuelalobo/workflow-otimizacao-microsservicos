@@ -1,4 +1,4 @@
-name: CI/CD Pipeline - Catálogo de Produtos
+name: CI Pipeline - Catalogo de Produtos v2
 
 on:
   push:
