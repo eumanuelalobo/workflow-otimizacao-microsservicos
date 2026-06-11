@@ -1,4 +1,4 @@
-name: CI Pipeline - Catalogo de Produtos v2
+name: CI/CD Pipeline - Catálogo de Produtos
 
 on:
   push:
@@ -29,3 +29,4 @@ jobs:
     - name: Executar Testes Automatizados
       run: |
         pytest
+        
